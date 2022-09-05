@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Comparing_sums.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Division.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Get_last_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-How_to_declare_a_function.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Parameters.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Return_type.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Right_equation.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-The_square_of_a_number.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-The_sum_of_three_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Vowel_or_not.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-What_should_be_specified.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Topics/Declaring functions/Comparing sums/build/
+/Topics/Declaring functions/Division/build/
+/Topics/Declaring functions/Get last digit/build/
+/Topics/Declaring functions/How to declare a function/build/
+/Topics/Declaring functions/Parameters/build/
+/Topics/Declaring functions/Return type/build/
+/Topics/Declaring functions/Right equation/build/
+/Topics/Declaring functions/The square of a number/build/
+/Topics/Declaring functions/The sum of three numbers/build/
+/Topics/Declaring functions/Theory/build/
+/Topics/Declaring functions/Vowel or not/build/
+/Topics/Declaring functions/What should be specified/build/
+/util/build/
